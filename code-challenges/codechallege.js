@@ -28,3 +28,4 @@ findShort("bitcoin take over the world maybe who knows perhaps")
 // returns 3
 findShort("turns out of random test cases are easier than writing out basic ones") 
 // returns 2
+
