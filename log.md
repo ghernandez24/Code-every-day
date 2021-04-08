@@ -12,3 +12,25 @@
 
 #### Link(s) to work: 
 - https://www.codewars.com/kata/514b92a657cdc65150000006
+
+### Day 2: April 6, 2021
+
+#### Todays Progress:
+🔥 🔥 
+- Read up on more documetation of Google Firebase. I will be utilizing ReactFire - which is an opensource file intergrating React with Firebase. I have laid out my plan to create a sign in feature using Google authentication.
+
+- Completed a code challange - countTheBits(JS)
+
+- and code challenge - Adultsonly (PostgreSQL)
+
+#### Thoughts: 
+- countTheBits challange was a bit tough but I guess thats why they call it a challenge.🦾
+
+#### Link(s) to work: 
+- [codechallenges.js](https://github.com/ghernandez24/Code-every-day/blob/main/code-challenges/codechallege.js)
+- [Adults Only](https://www.codewars.com/kata/590a95eede09f87472000213/train/sql)
+
+solution for Adults Only
+```
+SELECT * FROM users WHERE age > 17;
+```
