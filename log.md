@@ -34,3 +34,18 @@ solution for Adults Only
 ```
 SELECT * FROM users WHERE age > 17;
 ```
+
+### Day 3: April 7, 2021
+
+#### Todays Progress:
+🐍 🐍
+- Read up on more documetation of Google Firebase. Created my root project with React. Still working on authentication and security. 
+
+- Completed Python code challanges
+- Learn about Object-Oriented Programming in Python.
+
+#### Thoughts: 
+- Getting more comfortable with python. Still trying to figure Firebase out but will hopefully reach MVP level for my hackweek project tomorrow
+
+#### Link(s) to work: 
+- [pyhton challenges]('https://github.com/ghernandez24/Code-every-day/blob/main/code-challenges/challenges.py')
