@@ -97,3 +97,16 @@ SELECT * FROM users WHERE age > 17;
 
 #### Link(s) to work: 
 - [Hackweek repo]('https://github.com/ghernandez24/hackweek')
+
+### Day 7: April 12, 2021
+
+#### Todays Progress:
+- Worked on Django and View and show functions and how to render into an web html platform. 
+
+- Published my first LinkedIn article regarding firebase. 🎉 🎉
+
+#### Thoughts: 
+-  After work and reading docuementation. I'm glad I can work with some of Firebase's operattors. Definitely looking to learn more and possibly host a full working app utilizing there platform. 
+
+#### Link(s) to work: 
+- [LinkedIn article]('https://www.linkedin.com/pulse/intro-google-firebase-you-new-software-developer-hernandez/?trackingId=EXF4gx38TZOZrsk0GVOMaA%3D%3D')
