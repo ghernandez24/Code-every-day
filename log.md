@@ -110,3 +110,14 @@ SELECT * FROM users WHERE age > 17;
 
 #### Link(s) to work: 
 - [LinkedIn article]('https://www.linkedin.com/pulse/intro-google-firebase-you-new-software-developer-hernandez/?trackingId=EXF4gx38TZOZrsk0GVOMaA%3D%3D')
+
+### Day 8: April 13, 2021
+
+#### Todays Progress:
+- Worked on Django and REST API's. 
+- Laying out ideas for project 4 proposal.
+
+#### Thoughts: 
+-  Django is powerful. There is still alot of documentation to review and read.
+
+#### Link(s) to work: 
