@@ -121,3 +121,18 @@ SELECT * FROM users WHERE age > 17;
 -  Django is powerful. There is still alot of documentation to review and read.
 
 #### Link(s) to work: 
+
+### Day 8: April 13, 2021
+
+#### Todays Progress:
+- Understood more concepts and getting comfortable setting up enviroment for REST API with django/python
+
+- Implemented token authentication with rest_framework. 
+
+- Updated readMe file on github. 
+
+#### Thoughts: 
+-  Learning more how django/python streamline processes that fullstack developers using mongo/express run into. Really enjoying their system out.
+
+#### Link(s) to work: 
+[Checkmeout]('https://github.com/ghernandez24')
