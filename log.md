@@ -136,3 +136,20 @@ SELECT * FROM users WHERE age > 17;
 
 #### Link(s) to work: 
 [Checkmeout]('https://github.com/ghernandez24')
+
+### Day 9: April 14, 2021
+
+#### Todays Progress:
+- Worked with AWS and boto3 to intergrate storage and save media files into a bucket using django framework 
+
+- Completed some python code challenges. NBD. See link below for repo 👇
+
+- Deployed first django appp into heroku 
+
+- Crafted proposal for project 4. 
+
+#### Thoughts: 
+-  Learning more how django/python streamline processes that fullstack developers using mongo/express run into. Really enjoying their system out.
+
+#### Link(s) to work: 
+[PythonCodeChallnges]('https://github.com/ghernandez24/Code-every-day/blob/main/code-challenges/challenges.py')
