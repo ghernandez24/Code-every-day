@@ -195,3 +195,13 @@ SELECT * FROM users WHERE age > 17;
 
 #### Thoughts: 
 -  Will further reaserach on why login is not fully functional 
+
+### Day 15: April 20, 2021
+
+#### Todays Progress:
+- Working create account with firebase
+- created private route for full user access 
+- Tyring to integrate Modal login
+
+#### Thoughts: 
+-  bugs, bugs, bugs 🐛 🐞 🐜
