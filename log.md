@@ -153,3 +153,45 @@ SELECT * FROM users WHERE age > 17;
 
 #### Link(s) to work: 
 [PythonCodeChallnges]('https://github.com/ghernandez24/Code-every-day/blob/main/code-challenges/challenges.py')
+
+### Day 10: April 15, 2021
+
+#### Todays Progress:
+- Finalize project idea with Marcus 
+
+#### Thoughts: 
+- Creating resume generator
+
+### Day 11: April 16, 2021
+
+#### Todays Progress:
+- Put together skeleton of Capstone project
+
+#### Thoughts: 
+-  Laerning how to integrate djanog with react 
+
+### Day 12: April 17, 2021
+
+#### Todays Progress:
+- Did more reasearch on Django/ react integration. There's two methods, looking at feasibility
+
+#### Thoughts: 
+-  Won't be a simple task but up for the challange 
+
+
+### Day 13: April 18, 2021
+
+#### Todays Progress:
+- Day off to refresh and prepare for a solid week of coding
+
+#### Thoughts: 
+- Much needed day off
+
+### Day 14: April 19, 2021
+
+#### Todays Progress:
+- Made executive decision to integrate Firebase instead of django. 
+- Created user functionality but sign in is still a hassle
+
+#### Thoughts: 
+-  Will further reaserach on why login is not fully functional 
