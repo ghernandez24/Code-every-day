@@ -205,3 +205,17 @@ SELECT * FROM users WHERE age > 17;
 
 #### Thoughts: 
 -  bugs, bugs, bugs 🐛 🐞 🐜
+
+### Day 1 out of 100 
+- #### Todays Progress:
+- Had a small hiatus from here but going to continue now, more than ever and more determined
+- Learned Gatsby and built portfolio 
+
+#### Thoughts: 
+-  Need to commit more and more often 
+
+### Day 15: April 20, 2021
+
+#### Todays Progress:
+- Applied for several more jobs
+- Happy to have built our my portfolio
