@@ -22,6 +22,7 @@
 
 
 #### Thoughts: 
-- Need more practice on OOP - specifically - understanding core conepts of inhertitance 
+- Need more practice on OOP - specifically - understanding core conepts of inhertitance.
+- May have solution that will work. Will test out tomorrow ['solution'](https://www.reddit.com/r/learnpython/comments/8z7dfz/how_to_scrape_pages_that_need_cookies_or/) 
 
 #### Link(s) to work: 
